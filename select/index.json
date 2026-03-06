@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "base_track": "ポスト春",
+  "base_track": "うめき",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-06T04:02:44.762799Z",
+  "createdAt": "2026-03-06T15:09:53.333446Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ポスト春",
+      "title": "うめき",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_ポスト春_ヨルシカ.txt"
+      "path": "select/pl_01_うめき_ヨルシカ.txt"
     }
   ]
 }
