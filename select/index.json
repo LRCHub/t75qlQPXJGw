@@ -1,48 +1,24 @@
 {
   "version": 1,
-  "base_track": "櫂",
+  "base_track": "啄木鳥",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-08T17:48:10.141662Z",
+  "createdAt": "2026-03-08T18:23:54.162233Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "櫂",
-      "artist": "FictionJunction feat. Aimer",
+      "title": "啄木鳥",
+      "artist": "萬芳",
       "has_synced": true,
-      "path": "select/01_櫂_FictionJunction_feat._Aimer.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "櫂",
-      "artist": "FictionJunction",
-      "has_synced": true,
-      "path": "select/02_櫂_FictionJunction.lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "櫂",
-      "artist": "FictionJunction; Aimer",
-      "has_synced": true,
-      "path": "select/03_櫂_FictionJunction;_Aimer.lrc"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "櫂( feat.Aimer)",
-      "artist": "FictionJunction",
-      "has_synced": true,
-      "path": "select/04_櫂(_feat.Aimer)_FictionJunction.lrc"
+      "path": "select/01_啄木鳥_萬芳.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "櫂",
+      "title": "啄木鳥",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_櫂_ヨルシカ.txt"
+      "path": "select/pl_01_啄木鳥_ヨルシカ.txt"
     }
   ]
 }
