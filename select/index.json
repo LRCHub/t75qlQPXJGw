@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "啄木鳥",
+  "base_track": "花も騒めく",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-08T18:23:54.162233Z",
+  "createdAt": "2026-03-09T08:19:49.338890Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "啄木鳥",
-      "artist": "萬芳",
-      "has_synced": true,
-      "path": "select/01_啄木鳥_萬芳.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "啄木鳥",
+      "title": "花も騒めく",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_啄木鳥_ヨルシカ.txt"
+      "path": "select/pl_01_花も騒めく_ヨルシカ.txt"
     }
   ]
 }
