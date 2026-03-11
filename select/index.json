@@ -1,24 +1,16 @@
 {
   "version": 1,
-  "base_track": "魔性",
+  "base_track": "花も騒めく",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-10T09:18:02.314935Z",
+  "createdAt": "2026-03-11T13:32:51.228848Z",
   "candidates": [
-    {
-      "id": "lrclib_1",
-      "source": "lrclib",
-      "title": "愛・魔性",
-      "artist": "アンジュルム",
-      "has_synced": true,
-      "path": "select/01_愛・魔性_アンジュルム.lrc"
-    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "魔性",
+      "title": "花も騒めく",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_魔性_ヨルシカ.txt"
+      "path": "select/pl_01_花も騒めく_ヨルシカ.txt"
     }
   ]
 }
