@@ -1,41 +1,24 @@
 {
   "version": 1,
-  "base_track": "千鳥",
+  "base_track": "ポスト春",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-19T10:20:38.239723Z",
+  "createdAt": "2026-03-20T18:26:10.487812Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "千鳥",
+      "title": "ポスト春",
       "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/01_千鳥_ヨルシカ.lrc"
-    },
-    {
-      "id": "lrclib_2",
-      "source": "lrclib",
-      "title": "千鳥 - Plover",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/02_千鳥_-_Plover_Yorushika.lrc"
+      "has_synced": false,
+      "path": "select/01_ポスト春_ヨルシカ.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "千鳥",
+      "title": "ポスト春",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_千鳥_ヨルシカ.txt"
-    },
-    {
-      "id": "localdb_1",
-      "source": "localdb",
-      "title": "千鳥",
-      "artist": "ヨルシカ",
-      "has_synced": false,
-      "path": "select/localdb_01_千鳥_ヨルシカ.txt",
-      "repo_name": "t75qlQPXJGw"
+      "path": "select/pl_01_ポスト春_ヨルシカ.txt"
     }
   ]
 }
