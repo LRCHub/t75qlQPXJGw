@@ -1,24 +1,41 @@
 {
   "version": 1,
-  "base_track": "ポスト春",
+  "base_track": "プレイシック",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-20T18:26:10.487812Z",
+  "createdAt": "2026-03-21T18:25:06.638942Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "ポスト春",
+      "title": "プレイシック",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/01_ポスト春_ヨルシカ.txt"
+      "path": "select/01_プレイシック_ヨルシカ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_プレイシック_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ポスト春",
+      "title": "プレイシック",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_ポスト春_ヨルシカ.txt"
+      "path": "select/pl_01_プレイシック_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_プレイシック_ヨルシカ.lrc",
+      "repo_name": "P2FUhs2eMq4"
     }
   ]
 }
