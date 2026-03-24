@@ -1,121 +1,41 @@
 {
   "version": 1,
-  "base_track": "茜",
+  "base_track": "魔性",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-24T03:17:41.803290Z",
+  "createdAt": "2026-03-24T06:58:16.175114Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "茜",
-      "artist": "Kohmi Hirose",
-      "has_synced": false,
-      "path": "select/01_茜_Kohmi_Hirose.txt"
+      "title": "愛・魔性",
+      "artist": "アンジュルム",
+      "has_synced": true,
+      "path": "select/01_愛・魔性_アンジュルム.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "茜",
-      "artist": "くぅが starring 野島健児(from U×ミシ)",
-      "has_synced": true,
-      "path": "select/02_茜_くぅが_starring_野島健児(from_U×ミシ).lrc"
-    },
-    {
-      "id": "lrclib_3",
-      "source": "lrclib",
-      "title": "YOAKELAND (feat. 琴葉 茜・葵, 重音テト & 東北きりたん)",
-      "artist": "電ǂ鯨",
-      "has_synced": false,
-      "path": "select/03_YOAKELAND_(feat._琴葉_茜・葵,_重音テト_&_東北きりたん)_電ǂ鯨.txt"
-    },
-    {
-      "id": "lrclib_4",
-      "source": "lrclib",
-      "title": "YOAKELAND (feat. 琴葉 茜・葵, 重音テト & 東北きりたん)",
-      "artist": "Denki Qujira",
-      "has_synced": false,
-      "path": "select/04_YOAKELAND_(feat._琴葉_茜・葵,_重音テト_&_東北きりたん)_Denki_Qujira.txt"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "Sisterly Quartz (feat. 琴葉 茜・葵)",
-      "artist": "Twinfield",
-      "has_synced": true,
-      "path": "select/05_Sisterly_Quartz_(feat._琴葉_茜・葵)_Twinfield.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "巨人の肩から見下ろして (feat. 琴葉 茜・葵)",
-      "artist": "海茶",
-      "has_synced": true,
-      "path": "select/06_巨人の肩から見下ろして_(feat._琴葉_茜・葵)_海茶.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "茜",
-      "artist": "KEIKO",
-      "has_synced": true,
-      "path": "select/07_茜_KEIKO.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
-      "title": "茜",
+      "title": "魔性 - Devilishness",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/08_茜_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "茜",
-      "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/09_茜_ヨルシカ.lrc"
-    },
-    {
-      "id": "lrclib_10",
-      "source": "lrclib",
-      "title": "幕を下ろそう、パレードへ (feat. 琴葉 茜・葵)",
-      "artist": "Umicha",
-      "has_synced": true,
-      "path": "select/10_幕を下ろそう、パレードへ_(feat._琴葉_茜・葵)_Umicha.lrc"
-    },
-    {
-      "id": "lrclib_11",
-      "source": "lrclib",
-      "title": "茜 - Madder",
-      "artist": "Yorushika",
-      "has_synced": true,
-      "path": "select/11_茜_-_Madder_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_12",
-      "source": "lrclib",
-      "title": "茜 - Madder",
-      "artist": "ヨルシカ",
-      "has_synced": true,
-      "path": "select/12_茜_-_Madder_ヨルシカ.lrc"
+      "path": "select/02_魔性_-_Devilishness_Yorushika.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "茜",
+      "title": "魔性",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_茜_ヨルシカ.txt"
+      "path": "select/pl_01_魔性_ヨルシカ.txt"
     },
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "茜",
+      "title": "魔性",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/localdb_01_茜_ヨルシカ.lrc",
-      "repo_name": "_mXd6sHPLk0"
+      "path": "select/localdb_01_魔性_ヨルシカ.lrc",
+      "repo_name": "_Zux8YPFWXo"
     }
   ]
 }
