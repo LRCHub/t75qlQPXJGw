@@ -1,41 +1,41 @@
 {
   "version": 1,
-  "base_track": "魔性",
+  "base_track": "プレイシック",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-24T06:58:16.175114Z",
+  "createdAt": "2026-03-24T07:02:36.352653Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "愛・魔性",
-      "artist": "アンジュルム",
-      "has_synced": true,
-      "path": "select/01_愛・魔性_アンジュルム.lrc"
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/01_プレイシック_ヨルシカ.txt"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "魔性 - Devilishness",
-      "artist": "Yorushika",
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/02_魔性_-_Devilishness_Yorushika.lrc"
+      "path": "select/02_プレイシック_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "魔性",
+      "title": "プレイシック",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_魔性_ヨルシカ.txt"
+      "path": "select/pl_01_プレイシック_ヨルシカ.txt"
     },
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "魔性",
+      "title": "プレイシック",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/localdb_01_魔性_ヨルシカ.lrc",
-      "repo_name": "_Zux8YPFWXo"
+      "path": "select/localdb_01_プレイシック_ヨルシカ.lrc",
+      "repo_name": "P2FUhs2eMq4"
     }
   ]
 }
