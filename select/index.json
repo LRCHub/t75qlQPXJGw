@@ -1,41 +1,49 @@
 {
   "version": 1,
-  "base_track": "千鳥",
+  "base_track": "魔性",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-25T10:24:50.734986Z",
+  "createdAt": "2026-03-29T11:49:40.241628Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "千鳥",
-      "artist": "ヨルシカ",
+      "title": "愛・魔性",
+      "artist": "アンジュルム",
       "has_synced": true,
-      "path": "select/01_千鳥_ヨルシカ.lrc"
+      "path": "select/01_愛・魔性_アンジュルム.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "千鳥 - Plover",
+      "title": "魔性 - Devilishness",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/02_千鳥_-_Plover_Yorushika.lrc"
+      "path": "select/02_魔性_-_Devilishness_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "魔性",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/03_魔性_ヨルシカ.txt"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "千鳥",
+      "title": "魔性",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_千鳥_ヨルシカ.txt"
+      "path": "select/pl_01_魔性_ヨルシカ.txt"
     },
     {
       "id": "localdb_1",
       "source": "localdb",
-      "title": "千鳥",
+      "title": "魔性",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/localdb_01_千鳥_ヨルシカ.lrc",
-      "repo_name": "t75qlQPXJGw"
+      "path": "select/localdb_01_魔性_ヨルシカ.lrc",
+      "repo_name": "_Zux8YPFWXo"
     }
   ]
 }
