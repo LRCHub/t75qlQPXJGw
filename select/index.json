@@ -1,24 +1,49 @@
 {
   "version": 1,
-  "base_track": "火葬",
+  "base_track": "プレイシック",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-04-05T07:22:45.736687Z",
+  "createdAt": "2026-04-05T12:44:23.354645Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "火葬",
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/01_プレイシック_ヨルシカ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プレイシック",
       "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/01_火葬_ヨルシカ.lrc"
+      "path": "select/02_プレイシック_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_プレイシック_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "火葬",
+      "title": "プレイシック",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_火葬_ヨルシカ.txt"
+      "path": "select/pl_01_プレイシック_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "プレイシック",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_プレイシック_ヨルシカ.lrc",
+      "repo_name": "P2FUhs2eMq4"
     }
   ]
 }
